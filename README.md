@@ -120,6 +120,10 @@ From the chart above,
 Corporate customers, consumers, and the Home office all show the most interest in Office Supplies as they all have the highest bar for this category compared to other categories.
 
 ## Recommendation
+The summary of this project is presented in the dashboard below
+![](dashboard.png)
+you can also interact with this dashboard here; https://docs.google.com/spreadsheets/d/1CO4p67tmtHqbapLDHyqeEmNxP1fNTuid/edit?usp=sharing&ouid=115538197328431932102&rtpof=true&sd=true
+
 Based on the analysis and observations so far, I have come up with the following recommendations.
 ### 1. Improve Delivery Performance Across All Regions
 Late deliveries dominate in every region, particularly in the West (highest sales region) and the South (lowest sales region). To address this, there is a need for the store to;
